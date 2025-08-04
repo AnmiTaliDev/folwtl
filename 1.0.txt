@@ -1,0 +1,152 @@
+FOLW TEXT LICENSE LEFT 1.0 (FOLWTL LEFT)
+Free and Open and Libre World Text License - CopyLeft
+
+PREAMBLE
+
+This licence embodies the FOLW philosophy with share-alike provisions: content 
+should be free to use, open to study, and available for monetization, while 
+ensuring derivative works remain equally free. We believe in viral freedom - 
+sharing knowledge that stays shared through copyleft principles.
+
+DEFINITIONS
+
+"Work" - any textual work, documentation, article, book, manual, or other 
+written content licensed under this License.
+
+"You" - the person or entity exercising rights under this License.
+
+"Contributor" - any person or entity that creates, modifies, or contributes to 
+the Work, including original authors and creators of derivative works.
+
+"FOLW Movement" - the collective of all users of FOLW licenses, all authors of 
+FOLW licenses, and all active participants in FOLW-licensed projects.
+
+"Source Form" - the preferred form for editing the Work, including original 
+documents, markup files, or any non-compiled format.
+
+"Distribution" - making available to other parties through any medium.
+
+"Derivative Work" - any work based upon or incorporating the licensed Work, 
+including translations, adaptations, modifications, or compilations.
+
+TERMS
+
+1. Granted Rights
+
+You are granted rights to:
+- Use the work for any purpose (personal, educational, commercial)
+- Study and analyze the content
+- Distribute copies of the work
+- Create and distribute derivative works
+- Translate the work into other languages
+- Adapt the work to different formats or media
+
+2. Distribution Conditions
+
+When distributing the work or its modifications:
+- Provide proper attribution to original authors
+- Indicate changes made to the original work
+- Include this license text or a reference to it
+- Make source form available when practically possible
+- License derivative works under FOLWTL Left 1.0 or compatible share-alike 
+  license
+
+Attribution should include:
+- Author name(s)
+- Title of the work
+- License identifier (FOLWTL Left 1.0)
+- Source location if available
+
+3. Share-Alike Requirement
+
+Any derivative work must be licensed under:
+- FOLWTL Left 1.0, or
+- A later version of FOLWTL Left
+
+This ensures that modifications and improvements remain free and open for the 
+community.
+
+4. Commercial Rights
+
+Permitted activities:
+- Sale of printed or physical copies
+- Inclusion in commercial publications (if entire work is FOLWTL Left licensed)
+- Use in commercial training materials
+- Translation for commercial purposes
+- Monetization through advertising or subscriptions
+
+Commercial use of derivative works requires adherence to share-alike terms.
+
+5. Copyright
+
+- Preserve copyright notices
+- Your contributions are protected by your copyright
+- Your contributions must be licensed under FOLWTL Left 1.0
+
+6. No Warranty
+
+Work provided "as is" without warranties of any kind. Authors bear no 
+responsibility for accuracy, completeness, or potential issues arising from use.
+
+7. Dispute Resolution
+
+Upon violation of terms:
+- Peaceful settlement is preferred
+- Opportunity for correction within 30 days is provided
+- License may be restored after violation remediation
+
+8. Enforcement Mechanism
+
+License violations may be reported by:
+- Original copyright holders
+- Contributors
+- FOLW Movement representatives
+
+Enforcement process:
+1. Written notice to violator specifying breach
+2. 30-day cure period for remediation
+3. Automatic license termination if not cured
+4. Possible restoration upon compliance demonstration
+
+9. License Updates
+
+New versions will preserve core share-alike principles. You may specify exact 
+version or allow updates.
+
+10. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of 
+the jurisdiction where the current work maintainer is domiciled, as specified 
+in the work's official documentation or repository. If the maintainer is 
+unavailable, incapacitated, or not designated, governing law shall be 
+determined by the jurisdiction of: (1) a successor maintainer previously 
+designated by the work, or (2) the most active contributor based on 
+contributions over the preceding 12 months, or (3) the original copyright 
+holder. If local law prohibits choice of jurisdiction, local copyright law 
+applies. International disputes preferably resolved through mediation.
+
+PHILOSOPHY
+
+FOLWTL Left ensures that knowledge shared freely remains free. It prevents 
+proprietary capture while allowing commercial use, creating a commons that 
+grows stronger with each contribution.
+
+Principles:
+- Openness that propagates
+- Commercial freedom with sharing obligation
+- Community protection through copyleft
+- Practical freedom that preserves freedom
+
+USE CASES
+
+- Collaborative knowledge bases (like Wikipedia)
+- Open textbooks and educational resources
+- Community documentation projects
+- Activist or advocacy content that should remain free
+- Technical standards and specifications
+- Collaborative writing projects
+
+Copyright (c) [Year] [Author Name]
+
+Licensed under FOLW Text License Left 1.0
+FOLW Movement - Free and Open and Libre World
